@@ -8,4 +8,4 @@ APPSKEY : [16 Bytes] MSB
 
 DEV ADDRESS : [8 Bytes] MSB
 
-Pay attention to the frame counter in TTN, you have to reset it each time you reset your board.
+Pay attention to the frame counter in ns.galaxy.vn, you have to reset it each time you reset your board.
