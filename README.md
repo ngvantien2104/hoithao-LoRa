@@ -82,4 +82,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 Maintained by Fabien Ferrero and Trinh Le Huy
 https://nodejs.org/en/download/
+sudo npm install -g --unsafe-perm node-red
 
